@@ -12,7 +12,7 @@
 
 <p align="center">
   🎓 B.Tech CSE (AI & ML) — VIT (2023–2027) <br/>
-  📊 CGPA: 8.95
+  
 </p>
 
 ---
