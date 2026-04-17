@@ -1,66 +1,107 @@
-# 👋 Sudhansh Goyal
+<h1 align="center">Sudhansh Goyal</h1>
 
-**AI/ML Engineer • Backend Systems • DevOps Enthusiast**
+<p align="center">
+  <b>AI/ML Engineer • Backend Systems • DevOps</b>
+</p>
 
-🎓 B.Tech in Computer Science (AI & ML) — VIT (2023–2027)
-📊 CGPA: 8.95
-
-I build **end-to-end AI systems**, scalable backend pipelines, and cloud-native applications.
-Interested in **LLMs, RAG pipelines, deep learning, and DevOps automation**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=550&lines=Building+AI+Systems;LLMs+%7C+RAG+%7C+Deep+Learning;Cloud+%2B+DevOps+Enthusiast" />
+</p>
 
 ---
 
-## 🔗 Connect
+<p align="center">
+  🎓 B.Tech CSE (AI & ML) — VIT (2023–2027) <br/>
+  📊 CGPA: 8.95
+</p>
 
-* GitHub: https://github.com/Sudhansh-Goyal
-* LinkedIn: *https://www.linkedin.com/in/sudhansh-goyal-2599b5275/*
-* Email: *goyalsudhansh21@gmail.com*
+---
+
+## 🚀 About Me
+
+* 🧠 Building **end-to-end AI systems** (LLMs, RAG, Deep Learning)
+* ⚙️ Strong in **backend + DevOps pipelines**
+* ☁️ Deploying scalable systems using **AWS + Kubernetes**
+* 📈 Focused on **production-ready ML systems**
 
 ---
 
 ## 🚧 Currently Working On
 
-* Designing **LLM + RAG pipelines** with real-world applications
-* Building **AI-powered backend systems using FastAPI & AWS**
-* Exploring **DevSecOps workflows with Kubernetes & Jenkins**
-* Improving **DSA and system design skills**
+* 🔹 Multi-provider **LLM + RAG pipelines**
+* 🔹 AI backend systems using **FastAPI + AWS**
+* 🔹 **DevSecOps pipelines** with Kubernetes & Jenkins
+* 🔹 Strengthening **DSA & System Design**
 
 ---
 
-## ⚙️ Technical Skills
+## 🧠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-C/C++, Java, Python
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
 
-### AI / ML
+### 🤖 AI / ML
 
-NLP, CNNs, RNN, LSTM, LLM Fine-tuning, RAG, SHAP, LIME
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-AWS, Docker, Kubernetes, Jenkins, GitOps
-
-### Frameworks
-
-TensorFlow, PyTorch, Scikit-learn, FastAPI, LangChain
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 MeetingIQ
+### 🔥 MeetingIQ
 
-AI system for **meeting transcription, topic segmentation & action extraction** using LLMs + XAI
+> AI-powered meeting analysis system with transcription, topic segmentation & action extraction
 
-### 🔹 ResolutionX
+### 🧠 ResolutionX
 
-CNN-based **image super-resolution system (SRCNN)** with PSNR/SSIM benchmarking
+> CNN-based image super-resolution system with PSNR & SSIM benchmarking
 
-### 🔹 SecureCI
+### ⚙️ SecureCI
 
-End-to-end **CI/CD + DevSecOps pipeline** with Jenkins, Kubernetes & AWS
+> End-to-end CI/CD + DevSecOps automation platform
 
 ---
 
-⭐ *Focused on building scalable AI systems with real-world impact*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhansh-Goyal&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhansh-Goyal&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/Sudhansh-Goyal">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudhansh-goyal-2599b5275/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+  </a>
+  <a href="goyalsudhansh21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Building scalable AI systems with real-world impact
+</p>
