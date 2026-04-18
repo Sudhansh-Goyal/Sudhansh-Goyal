@@ -53,7 +53,7 @@
 
 ### ☁️ DevOps & Cloud
 
-![FastApi](https://img.shields.io/badge/AWS-black?style=for-the-badge)
+![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
